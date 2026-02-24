@@ -12,12 +12,12 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 
 ## 📖 Table of Contents
 
-- [Introduction](#-introduction)
-- [Personal Motivation](#-personal-motivation)
-- [Roadmap](#-roadmap)
-- [Progress Log](#-progress-log)
-- [How to Run](#-how-to-run)
-- [Resources](#-resources)
+- [Introduction](#introduction)
+- [Personal Motivation](#personal-motivation)
+- [Roadmap](#roadmap)
+- [Progress Log](#progress-log)
+- [How to Run](#how-to-run)
+- [Resources](#resources)
 
 ---
 
@@ -45,7 +45,7 @@ Here’s why I’m adding Go to my arsenal:
 
 - [x] **Day 00**: History of Go & Why Go?
 - [x] **Day 01**: Hello World!
-- [ ] **Day 02**: Variables & Types
+- [x] **Day 02**: Variables & Types
 - [ ] **Day 03**: Control Flows (If/Else, Switch, For)
 - [ ] **Day 04**: Functions & Packages
 - [ ] **Day 05**: Data Structures (Arrays, Slices, Maps)
@@ -63,7 +63,7 @@ Here’s why I’m adding Go to my arsenal:
 | :--- | :--- | :--- | :--- |
 | **00** | [Why Go?](./00-history-of-go-and-why-go) | Internal | ✅ Done |
 | **01** | [Hello World](./01-hello-world) | Internal | ✅ Done |
-| **02** | Variables & Types | Pending | ⏳ Planned |
+| **02** | [Variables & Types](./02-variable-and-types) | Internal | ✅ Done |
 
 ---
 
