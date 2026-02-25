@@ -46,7 +46,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 00**: History of Go & Why Go?
 - [x] **Day 01**: Hello World!
 - [x] **Day 02**: Variables & Types
-- [ ] **Day 03**: Control Flows (If/Else, Switch, For)
+- [x] **Day 03**: Control Flows (If/Else, Switch, For)
 - [ ] **Day 04**: Functions & Packages
 - [ ] **Day 05**: Data Structures (Arrays, Slices, Maps)
 - [ ] **Day 06**: Pointers & Structs
@@ -65,7 +65,7 @@ Here’s why I’m adding Go to my arsenal:
 | **01** | [Hello World](./01-hello-world) | Internal | ✅ Done |
 | **02** | [Variables & Types](./02-variable-and-types) | Internal | ✅ Done |
 
----
+| **03** | [Control Flows](./03-control-flow) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
