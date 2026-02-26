@@ -6,7 +6,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Progress](https://img.shields.io/badge/Progress-Day%201-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%204-blue)](#-progress-log)
 
 ---
 
@@ -47,7 +47,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 01**: Hello World!
 - [x] **Day 02**: Variables & Types
 - [x] **Day 03**: Control Flows (If/Else, Switch, For)
-- [ ] **Day 04**: Functions & Packages
+- [x] **Day 04**: Functions & Packages
 - [ ] **Day 05**: Data Structures (Arrays, Slices, Maps)
 - [ ] **Day 06**: Pointers & Structs
 - [ ] **Day 07**: Interfaces & Methods
@@ -66,6 +66,7 @@ Here’s why I’m adding Go to my arsenal:
 | **02** | [Variables & Types](./02-variable-and-types) | Internal | ✅ Done |
 
 | **03** | [Control Flows](./03-control-flow) | Internal | ✅ Done |
+| **04** | [Functions & Packages](./04-functions-and-packages) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
