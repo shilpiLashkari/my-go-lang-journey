@@ -48,7 +48,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 02**: Variables & Types
 - [x] **Day 03**: Control Flows (If/Else, Switch, For)
 - [x] **Day 04**: Functions & Packages
-- [ ] **Day 05**: Data Structures (Arrays, Slices, Maps)
+- [x] **Day 05**: Array (Arrays, Slices, Maps)
 - [ ] **Day 06**: Pointers & Structs
 - [ ] **Day 07**: Interfaces & Methods
 - [ ] **Day 08**: Concurrency & Goroutines
@@ -67,6 +67,7 @@ Here’s why I’m adding Go to my arsenal:
 
 | **03** | [Control Flows](./03-control-flow) | Internal | ✅ Done |
 | **04** | [Functions & Packages](./04-functions-and-packages) | Internal | ✅ Done |
+| **05** | [Array](./05-array) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
