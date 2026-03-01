@@ -50,7 +50,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 04**: Functions & Packages
 - [x] **Day 05**: Array (Arrays, Slices, Maps)
 - [x] **Day 06**: Pointers & Structs
-- [ ] **Day 07**: Interfaces & Methods
+- [x] **Day 07**: Interfaces & Methods
 - [ ] **Day 08**: Concurrency & Goroutines
 - [ ] **Day 09**: Standard Library Exploration
 - [ ] **Day 10**: Building a Mini Project
@@ -69,6 +69,7 @@ Here’s why I’m adding Go to my arsenal:
 | **04** | [Functions & Packages](./04-functions-and-packages) | Internal | ✅ Done |
 | **05** | [Array](./05-array) | Internal | ✅ Done |
 | **06** | [Pointers & Structs](./06-pointers-and-structs) | Internal | ✅ Done |
+| **07** | [Interfaces & Methods](./07-interfaces-and-methods) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
