@@ -52,7 +52,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 06**: Pointers & Structs
 - [x] **Day 07**: Interfaces & Methods
 - [x] **Day 08**: Concurrency & Goroutines
-- [ ] **Day 09**: Standard Library Exploration
+- [x] **Day 09**: Standard Library Exploration
 - [ ] **Day 10**: Building a Mini Project
 
 ---
@@ -71,6 +71,7 @@ Here’s why I’m adding Go to my arsenal:
 | **06** | [Pointers & Structs](./06-pointers-and-structs) | Internal | ✅ Done |
 | **07** | [Interfaces & Methods](./07-interfaces-and-methods) | Internal | ✅ Done |
 | **08** | [Concurrency & Goroutines](./08-concurrency-and-goroutines) | Internal | ✅ Done |
+| **09** | [Standard Library Exploration](./09-standard-library-exploration) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
