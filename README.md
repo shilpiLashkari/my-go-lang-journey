@@ -6,7 +6,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Progress](https://img.shields.io/badge/Progress-Day%208-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%209-blue)](#-progress-log)
 
 ---
 
