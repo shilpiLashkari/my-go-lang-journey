@@ -6,7 +6,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Progress](https://img.shields.io/badge/Progress-Day%209-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2010--Completed!-brightgreen)](#-progress-log)
 
 ---
 
@@ -53,7 +53,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 07**: Interfaces & Methods
 - [x] **Day 08**: Concurrency & Goroutines
 - [x] **Day 09**: Standard Library Exploration
-- [ ] **Day 10**: Building a Mini Project
+- [x] **Day 10**: Building a Mini Project
 
 ---
 
@@ -72,6 +72,7 @@ Here’s why I’m adding Go to my arsenal:
 | **07** | [Interfaces & Methods](./07-interfaces-and-methods) | Internal | ✅ Done |
 | **08** | [Concurrency & Goroutines](./08-concurrency-and-goroutines) | Internal | ✅ Done |
 | **09** | [Standard Library Exploration](./09-standard-library-exploration) | Internal | ✅ Done |
+| **10** | [Mini Project](./10-mini-project) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
