@@ -1,6 +1,6 @@
 # Variables and Types in Go 📦
 
-In this lesson, we learn how to store information using **Variables**. Think of a variable as a labeled box where you can keep a specific type of item.
+In this lesson, I'm learning how to store information using **Variables**. Think of a variable as a labeled box where you can keep a specific type of item.
 
 ## 📦 What are Variables?
 A variable is a name for a piece of data that can change. In Go, we tell the computer exactly what "kind" of data (the **Type**) will go into our box.
@@ -27,7 +27,7 @@ version := 1.25 // Go knows this is a float64
 ```
 
 ## 🚀 Example from `main.go`
-In our [main.go](main.go) file, we used these types to print information to the console:
+In my [main.go](main.go) file, I used these types to print information to the console:
 
 ```go
 func main() {

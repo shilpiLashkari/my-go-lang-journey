@@ -5,8 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Progress](https://img.shields.io/badge/Progress-Day%2010--Completed!-brightgreen)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2011-blue)](#-progress-log)
 
 ---
 
@@ -29,7 +28,7 @@ Go is an open-source programming language that makes it easy to build simple, re
 
 ## 🎯 Personal Motivation
 
-As someone with a background in **JavaScript, Python, Node, Angular, React, MongoDB, and Express**, you might wonder: *Why learn Go?*
+As someone with a background in **JavaScript, Python, Node, Angular, React, MongoDB, and Express**, you might wonder: _Why learn Go?_
 
 Here’s why I’m adding Go to my arsenal:
 
@@ -53,16 +52,16 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 07**: Interfaces & Methods
 - [x] **Day 08**: Concurrency & Goroutines
 - [x] **Day 09**: Standard Library Exploration
-- [x] **Day 10**: Building a Mini Project
+- [x] **Day 10**: Mini Project: CLI Task Manager
 
 ---
 
 ## 📅 Progress Log
 
-| Day | Topic | Source | Status |
-| :--- | :--- | :--- | :--- |
-| **00** | [Why Go?](./00-history-of-go-and-why-go) | Internal | ✅ Done |
-| **01** | [Hello World](./01-hello-world) | Internal | ✅ Done |
+| Day    | Topic                                        | Source   | Status  |
+| :----- | :------------------------------------------- | :------- | :------ |
+| **00** | [Why Go?](./00-history-of-go-and-why-go)     | Internal | ✅ Done |
+| **01** | [Hello World](./01-hello-world)              | Internal | ✅ Done |
 | **02** | [Variables & Types](./02-variable-and-types) | Internal | ✅ Done |
 
 | **03** | [Control Flows](./03-control-flow) | Internal | ✅ Done |
@@ -72,7 +71,8 @@ Here’s why I’m adding Go to my arsenal:
 | **07** | [Interfaces & Methods](./07-interfaces-and-methods) | Internal | ✅ Done |
 | **08** | [Concurrency & Goroutines](./08-concurrency-and-goroutines) | Internal | ✅ Done |
 | **09** | [Standard Library Exploration](./09-standard-library-exploration) | Internal | ✅ Done |
-| **10** | [Mini Project](./10-mini-project) | Internal | ✅ Done |
+| **10** | [CLI Task Manager](./10-mini-project-cli-task-manager) | Internal | ✅ Done |
+| **11** | [Go Journey Analytics](./11-mini-project-journey-analytics) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 

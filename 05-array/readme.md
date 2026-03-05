@@ -1,6 +1,6 @@
 # Day 05: Array (Arrays, Slices, Maps)
 
-In this practice, we explore the core basic data structures in Go.
+In this practice, I'm exploring the core basic data structures in Go.
 
 ## Concepts Covered
 - **Arrays**: Fixed-sized collections of elements of the same type.

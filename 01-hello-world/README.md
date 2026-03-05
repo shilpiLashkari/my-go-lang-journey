@@ -1,6 +1,6 @@
 # 👋 Day 01: Hello World
 
-This is the very first step! We're writing a simple "Hello World" program to see how a Go file is put together.
+This is the very first step! I'm writing a simple "Hello World" program to see how a Go file is put together.
 
 ## 📝 The Code (`main.go`)
 ```go

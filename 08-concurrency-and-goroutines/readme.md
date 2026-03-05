@@ -17,7 +17,7 @@ go doSomething()
 - `v := <-ch` // Receive from `ch`, and assign value to `v`.
 
 ### WaitGroups
-When launching multiple goroutines, we often need to wait for all of them to finish before the program exits. We use `sync.WaitGroup` for this.
+When launching multiple goroutines, I often need to wait for all of them to finish before the program exits. I use `sync.WaitGroup` for this.
 
 ## 🚦 The Select Statement
 The `select` statement lets a goroutine wait on multiple communication operations. It's like a `switch` but for channels.

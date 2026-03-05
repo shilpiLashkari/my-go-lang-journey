@@ -1,6 +1,6 @@
 # Functions & Packages in Go 📦
 
-Go is built around functions. They are the basic building blocks of any Go program. We also use packages to organize our code and make it reusable.
+Go is built around functions. They are the basic building blocks of any Go program. I'm also using packages to organize my code and make it reusable.
 
 ## 🛠️ Functions
 

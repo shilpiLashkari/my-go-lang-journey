@@ -1,6 +1,6 @@
 # Standard Library Exploration 📚
 
-Go has a "batteries-included" approach, providing a powerful standard library that covers many common needs without requiring external dependencies.
+Go has a "batteries-included" approach, and I'm exploring its powerful standard library that covers many common needs without requiring external dependencies.
 
 ## 📦 Key Packages
 
@@ -38,4 +38,4 @@ Check out [main.go](main.go) to see these packages in action!
 
 ---
 
-*Ready for more? Check out [Day 10: Building a Mini Project](../10-building-a-mini-project)!*
+*Ready for more? Check out [Day 10: Mini Project - CLI Task Manager](../10-mini-project-cli-task-manager)!*

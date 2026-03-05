@@ -1,6 +1,6 @@
 # Control Flow in Go 🚦
 
-In this lesson, we learn how to control the "flow" of our program using decisions (**If/Else**, **Switch**) and repetitions (**For Loops**).
+In this lesson, I'm learning how to control the "flow" of my program using decisions (**If/Else**, **Switch**) and repetitions (**For Loops**).
 
 ## 🔀 Making Decisions
 

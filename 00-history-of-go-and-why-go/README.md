@@ -1,6 +1,6 @@
 # 📜 History of Go & Why Go?
 
-Before writing code, let's understand why Go exists and who built it.
+Before writing code, I'll start by understanding why Go exists and who built it.
 
 ## 🕰️ A Quick History
 Go (or **Golang**) was started in **2007** at Google. It was created by three legendary engineers who were tired of how slow and complex other languages (like C++ and Java) had become.
@@ -22,4 +22,4 @@ Go was built for the modern world—where we have many-core processors and massi
 
 ---
 
-*Ready for some code? Let's go to [Day 01 - Hello World](../01-hello-world)!*
+*Ready for some code? I'm moving on to [Day 01 - Hello World](../01-hello-world)!*

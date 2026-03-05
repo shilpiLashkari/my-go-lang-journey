@@ -1,6 +1,6 @@
 # Day 06: Pointers & Structs
 
-Practice Go pointers and defining/using structs.
+I'm practicing Go pointers and defining/using structs.
 
 ## Concepts Covered
 - **Pointers**: Storing memory addresses and dereferencing them using `&` and `*`.

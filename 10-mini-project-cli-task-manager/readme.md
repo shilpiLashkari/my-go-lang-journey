@@ -1,6 +1,6 @@
-# Mini Project: CLI Task Manager 📝
+# 10 - Mini Project - CLI Task Manager 📝
 
-Welcome to the final day of the Go journey! To wrap things up, we've built a practical **CLI Task Manager**. This project combines many of the concepts learned over the last 10 days.
+Welcome to the final day of the Go journey! To wrap things up, I've built a practical **CLI Task Manager**. This project combines many of the concepts learned over the last 10 days.
 
 ## 🚀 Features
 - **Add Tasks**: Quickly add new items to your to-do list.
@@ -19,10 +19,7 @@ Welcome to the final day of the Go journey! To wrap things up, we've built a pra
 4. **Error Handling**: Graceful handling of file I/O and user input errors.
 
 ## 🛠️ How to Use
-1. Navigate to this directory: `cd 10-mini-project`
+1. Navigate to this directory: `cd 10-mini-project-cli-task-manager`
 2. Run the application: `go run main.go`
 3. Follow the on-screen menu to add or view tasks!
 
----
-
-*Congratulations! You've completed the 10-day Go Lang Journey! 🎈*

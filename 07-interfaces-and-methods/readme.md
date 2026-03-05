@@ -1,6 +1,6 @@
 # Day 07: Interfaces & Methods
 
-Explore how Go handles polymorphism and behaviors using methods and interfaces.
+I'm exploring how Go handles polymorphism and behaviors using methods and interfaces.
 
 ## Concepts Covered
 - **Methods**: Functions with a special receiver argument. They define behavior for types.
