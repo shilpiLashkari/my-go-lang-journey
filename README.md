@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2011-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2012-blue)](#-progress-log)
 
 ---
 
@@ -52,7 +52,8 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 07**: Interfaces & Methods
 - [x] **Day 08**: Concurrency & Goroutines
 - [x] **Day 09**: Standard Library Exploration
-- [x] **Day 10**: Mini Project: CLI Task Manager
+- [x] **Day 11**: Mini Project: Go Journey Analytics
+- [x] **Day 12**: Mini Project: Go-RSS (Concurrent Feed Reader)
 
 ---
 
@@ -73,6 +74,7 @@ Here’s why I’m adding Go to my arsenal:
 | **09** | [Standard Library Exploration](./09-standard-library-exploration) | Internal | ✅ Done |
 | **10** | [CLI Task Manager](./10-mini-project-cli-task-manager) | Internal | ✅ Done |
 | **11** | [Go Journey Analytics](./11-mini-project-journey-analytics) | Internal | ✅ Done |
+| **12** | [Go-RSS](./12-mini-project-go-rss) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 

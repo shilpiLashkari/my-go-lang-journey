@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Go Blog",
+    "url": "https://go.dev/blog/feed.atom"
+  },
+  {
+    "name": "BBC News - Technology",
+    "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml"
+  }
+]
