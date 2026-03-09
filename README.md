@@ -56,6 +56,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 12**: Mini Project: Go-RSS (Concurrent Feed Reader)
 - [x] **Day 13**: Mini Project: Go-Scan (Concurrent Port Scanner)
 - [x] **Day 14**: Mini Project: Go-Vault (Secure Secret Store)
+- [x] **Day 15**: Mini Project: Go-Watcher (FS Change Monitor)
 
 ---
 
@@ -79,6 +80,7 @@ Here’s why I’m adding Go to my arsenal:
 | **12** | [Go-RSS](./12-mini-project-go-rss) | Internal | ✅ Done |
 | **13** | [Go-Scan](./13-mini-project-go-scan) | Internal | ✅ Done |
 | **14** | [Go-Vault](./14-mini-project-go-vault) | Internal | ✅ Done |
+| **15** | [Go-Watcher](./15-mini-project-go-watcher) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
