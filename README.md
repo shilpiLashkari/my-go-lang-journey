@@ -58,6 +58,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 13**: Mini Project: Go-Scan (Concurrent Port Scanner)
 - [x] **Day 14**: Mini Project: Go-Vault (Secure Secret Store)
 - [x] **Day 15**: Mini Project: Go-Watcher (FS Change Monitor)
+- [x] **Day 16**: Mini Project: Go-Link-Checker (Concurrent URL Verifier)
 
 ---
 
@@ -82,6 +83,7 @@ Here’s why I’m adding Go to my arsenal:
 | **13** | [Go-Scan](./13-mini-project-go-scan) | Internal | ✅ Done |
 | **14** | [Go-Vault](./14-mini-project-go-vault) | Internal | ✅ Done |
 | **15** | [Go-Watcher](./15-mini-project-go-watcher) | Internal | ✅ Done |
+| **16** | [Go-Link-Checker](./16-mini-project-go-link-checker) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
