@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2016-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2017-blue)](#-progress-log)
 
 ---
 
