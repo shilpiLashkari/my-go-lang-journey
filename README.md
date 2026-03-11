@@ -59,6 +59,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 14**: Mini Project: Go-Vault (Secure Secret Store)
 - [x] **Day 15**: Mini Project: Go-Watcher (FS Change Monitor)
 - [x] **Day 16**: Mini Project: Go-Link-Checker (Concurrent URL Verifier)
+- [x] **Day 17**: Mini Project: Go-Duplicate-Finder (File Deduplication Tool)
 
 ---
 
@@ -84,6 +85,7 @@ Here’s why I’m adding Go to my arsenal:
 | **14** | [Go-Vault](./14-mini-project-go-vault) | Internal | ✅ Done |
 | **15** | [Go-Watcher](./15-mini-project-go-watcher) | Internal | ✅ Done |
 | **16** | [Go-Link-Checker](./16-mini-project-go-link-checker) | Internal | ✅ Done |
+| **17** | [Go-Duplicate-Finder](./17-mini-project-duplicate-finder) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
