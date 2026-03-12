@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2017-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2018-blue)](#-progress-log)
 
 ---
 
@@ -60,6 +60,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 15**: Mini Project: Go-Watcher (FS Change Monitor)
 - [x] **Day 16**: Mini Project: Go-Link-Checker (Concurrent URL Verifier)
 - [x] **Day 17**: Mini Project: Go-Duplicate-Finder (File Deduplication Tool)
+- [x] **Day 18**: Mini Project: Go-Markdown-Server (Local Docs Viewer)
 
 ---
 
@@ -86,6 +87,7 @@ Here’s why I’m adding Go to my arsenal:
 | **15** | [Go-Watcher](./15-mini-project-go-watcher) | Internal | ✅ Done |
 | **16** | [Go-Link-Checker](./16-mini-project-go-link-checker) | Internal | ✅ Done |
 | **17** | [Go-Duplicate-Finder](./17-mini-project-duplicate-finder) | Internal | ✅ Done |
+| **18** | [Go-Markdown-Server](./18-mini-project-markdown-server) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
