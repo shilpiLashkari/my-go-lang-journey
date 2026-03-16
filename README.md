@@ -64,6 +64,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 19**: Mini Project: Go-Habit-Tracker (Personal Growth Tool)
 - [x] **Day 20**: Mini Project: Go-Load-Tester (Concurrent HTTP Benchmarker)
 - [x] **Day 21**: Mini Project: Go-Cron (Lightweight Job Scheduler)
+- [x] **Day 22**: Mini Project: Go-Cache (In-Memory Key-Value Store)
 
 ---
 
@@ -94,6 +95,7 @@ Here’s why I’m adding Go to my arsenal:
 | **19** | [Go-Habit-Tracker](./19-mini-project-habit-tracker) | Internal | ✅ Done |
 | **20** | [Go-Load-Tester](./20-mini-project-go-load-tester) | Internal | ✅ Done |
 | **21** | [Go-Cron](./21-mini-project-go-cron) | Internal | ✅ Done |
+| **22** | [Go-Cache](./22-mini-project-go-cache) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
