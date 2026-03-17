@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2022-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2023-blue)](#-progress-log)
 
 ---
 
@@ -65,6 +65,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 20**: Mini Project: Go-Load-Tester (Concurrent HTTP Benchmarker)
 - [x] **Day 21**: Mini Project: Go-Cron (Lightweight Job Scheduler)
 - [x] **Day 22**: Mini Project: Go-Cache (In-Memory Key-Value Store)
+- [x] **Day 23**: Mini Project: Go-Ping (Concurrent Health Checker)
 
 ---
 
@@ -96,6 +97,7 @@ Here’s why I’m adding Go to my arsenal:
 | **20** | [Go-Load-Tester](./20-mini-project-go-load-tester) | Internal | ✅ Done |
 | **21** | [Go-Cron](./21-mini-project-go-cron) | Internal | ✅ Done |
 | **22** | [Go-Cache](./22-mini-project-go-cache) | Internal | ✅ Done |
+| **23** | [Go-Ping](./23-mini-project-go-ping) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
