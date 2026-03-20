@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2025-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2026-blue)](#-progress-log)
 
 ---
 
@@ -68,6 +68,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 23**: Mini Project: Go-Ping (Concurrent Health Checker)
 - [x] **Day 24**: Mini Project: Go-Repo-Scanner (Git Workspace Health Checker)
 - [x] **Day 25**: Mini Project: Go-Snippet-Manager (Personal Code Library)
+- [x] **Day 26**: Mini Project: Go-Notes-TUI (Colorful Interactive Terminal Notes)
 
 ---
 
@@ -102,6 +103,7 @@ Here’s why I’m adding Go to my arsenal:
 | **23** | [Go-Ping](./23-mini-project-go-ping) | Internal | ✅ Done |
 | **24** | [Go-Repo-Scanner](./24-mini-project-repo-scanner) | Internal | ✅ Done |
 | **25** | [Go-Snippet-Manager](./25-mini-project-snippet-manager) | Internal | ✅ Done |
+| **26** | [Go-Notes-TUI](./26-mini-project-notes-tui) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
