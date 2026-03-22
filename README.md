@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2026-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2028-blue)](#-progress-log)
 
 ---
 
@@ -69,6 +69,8 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 24**: Mini Project: Go-Repo-Scanner (Git Workspace Health Checker)
 - [x] **Day 25**: Mini Project: Go-Snippet-Manager (Personal Code Library)
 - [x] **Day 26**: Mini Project: Go-Notes-TUI (Colorful Interactive Terminal Notes)
+- [x] **Day 27**: Mini Project: Go-Pomodoro (Terminal Focus Timer)
+- [x] **Day 28**: Mini Project: Go-Quiz-Master (Timed CSV Quiz Game)
 
 ---
 
@@ -104,6 +106,8 @@ Here’s why I’m adding Go to my arsenal:
 | **24** | [Go-Repo-Scanner](./24-mini-project-repo-scanner) | Internal | ✅ Done |
 | **25** | [Go-Snippet-Manager](./25-mini-project-snippet-manager) | Internal | ✅ Done |
 | **26** | [Go-Notes-TUI](./26-mini-project-notes-tui) | Internal | ✅ Done |
+| **27** | [Go-Pomodoro](./27-mini-project-go-pomodoro) | Internal | ✅ Done |
+| **28** | [Go-Quiz-Master](./28-mini-project-quiz-master) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
