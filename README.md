@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2028-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2029-blue)](#-progress-log)
 
 ---
 
@@ -71,6 +71,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 26**: Mini Project: Go-Notes-TUI (Colorful Interactive Terminal Notes)
 - [x] **Day 27**: Mini Project: Go-Pomodoro (Terminal Focus Timer)
 - [x] **Day 28**: Mini Project: Go-Quiz-Master (Timed CSV Quiz Game)
+- [x] **Day 29**: Mini Project: Go-Image-To-ASCII (Terminal Art)
 
 ---
 
@@ -108,6 +109,7 @@ Here’s why I’m adding Go to my arsenal:
 | **26** | [Go-Notes-TUI](./26-mini-project-notes-tui) | Internal | ✅ Done |
 | **27** | [Go-Pomodoro](./27-mini-project-go-pomodoro) | Internal | ✅ Done |
 | **28** | [Go-Quiz-Master](./28-mini-project-quiz-master) | Internal | ✅ Done |
+| **29** | [Go-Image-To-ASCII](./29-mini-project-image-to-ascii) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
