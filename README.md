@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2030%20(Milestone)-red)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2031-blue)](#-progress-log)
 
 ---
 
@@ -73,6 +73,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 28**: Mini Project: Go-Quiz-Master (Timed CSV Quiz Game)
 - [x] **Day 29**: Mini Project: Go-Image-To-ASCII (Terminal Art)
 - [x] **Day 30**: **MILESTONE**: Go-TCP-Chat-Server (Concurrent Chat Hub) 🚀
+- [x] **Day 31**: Mini Project: Go-SSG (Static Site Generator)
 
 ---
 
@@ -112,6 +113,7 @@ Here’s why I’m adding Go to my arsenal:
 | **28** | [Go-Quiz-Master](./28-mini-project-quiz-master) | Internal | ✅ Done |
 | **29** | [Go-Image-To-ASCII](./29-mini-project-image-to-ascii) | Internal | ✅ Done |
 | **30** | [**Go-TCP-Chat-Server**](./30-mini-project-tcp-chat-server) | Milestone | 🚀 **STREAK: 1 MONTH!** |
+| **31** | [Go-SSG](./31-mini-project-go-ssg) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
