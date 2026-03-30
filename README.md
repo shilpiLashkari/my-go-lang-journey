@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2035-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2036-blue)](#-progress-log)
 
 ---
 
@@ -78,6 +78,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 33**: Mini Project: Go-Sitemap-Generator (Visual Web Crawler)
 - [x] **Day 34**: Mini Project: Go-File-Cryptor (Secure AES File Vault)
 - [x] **Day 35**: Mini Project: Go-URL-Shortener (Persistent Web Service)
+- [x] **Day 36**: Mini Project: Go-Watchdog (Hot-Reload Developer Tool)
 
 ---
 
@@ -122,6 +123,7 @@ Here’s why I’m adding Go to my arsenal:
 | **33** | [Go-Sitemap-Generator](./33-mini-project-sitemap-generator) | Internal | ✅ Done |
 | **34** | [Go-File-Cryptor](./34-mini-project-file-cryptor) | Internal | ✅ Done |
 | **35** | [Go-URL-Shortener](./35-mini-project-url-shortener) | Internal | ✅ Done |
+| **36** | [Go-Watchdog](./36-mini-project-go-watchdog) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
