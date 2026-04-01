@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2037-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2038-blue)](#-progress-log)
 
 ---
 
@@ -80,6 +80,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 35**: Mini Project: Go-URL-Shortener (Persistent Web Service)
 - [x] **Day 36**: Mini Project: Go-Watchdog (Hot-Reload Developer Tool)
 - [x] **Day 37**: Mini Project: Go-HTTP-Bench (High Performance Tester)
+- [x] **Day 38**: Mini Project: Go-Port-Scanner (Concurrent Network Auditor)
 
 ---
 
@@ -126,6 +127,7 @@ Here’s why I’m adding Go to my arsenal:
 | **35** | [Go-URL-Shortener](./35-mini-project-url-shortener) | Internal | ✅ Done |
 | **36** | [Go-Watchdog](./36-mini-project-go-watchdog) | Internal | ✅ Done |
 | **37** | [Go-HTTP-Bench](./37-mini-project-http-bench) | Internal | ✅ Done |
+| **38** | [Go-Port-Scanner](./38-mini-project-port-scanner) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
