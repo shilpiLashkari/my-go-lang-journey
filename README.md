@@ -81,6 +81,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 36**: Mini Project: Go-Watchdog (Hot-Reload Developer Tool)
 - [x] **Day 37**: Mini Project: Go-HTTP-Bench (High Performance Tester)
 - [x] **Day 38**: Mini Project: Go-Port-Scanner (Concurrent Network Auditor)
+- [x] **Day 39**: Mini Project: Go-Log-Analyzer (Web Log Performance & Health Checker)
 
 ---
 
@@ -128,6 +129,7 @@ Here’s why I’m adding Go to my arsenal:
 | **36** | [Go-Watchdog](./36-mini-project-go-watchdog) | Internal | ✅ Done |
 | **37** | [Go-HTTP-Bench](./37-mini-project-http-bench) | Internal | ✅ Done |
 | **38** | [Go-Port-Scanner](./38-mini-project-port-scanner) | Internal | ✅ Done |
+| **39** | [Go-Log-Analyzer](./39-mini-project-go-log-analyzer) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
