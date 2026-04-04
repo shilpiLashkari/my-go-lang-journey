@@ -1,0 +1,10 @@
+{
+  "backup_dir": "./backups",
+  "sources": [
+    {
+      "name": "sample_data",
+      "path": "./sample_data"
+    }
+  ],
+  "rotation_limit": 3
+}

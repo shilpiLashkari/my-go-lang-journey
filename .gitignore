@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Project Specific
+**/backups/
+**/sample_data/
+**/testdata/
+
+# OS specific
+.DS_Store
+Thumbs.db
