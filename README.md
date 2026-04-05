@@ -84,6 +84,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 39**: Mini Project: Go-Log-Analyzer (Web Log Performance & Health Checker)
 - [x] **Day 40**: Mini Project: Go-API-Mock-Server (REST API from JSON)
 - [x] **Day 41**: Mini Project: Go-Backup-Manager (Concurrent Folder Backups & Rotation)
+- [x] **Day 42**: Mini Project: Go-Task-Dispatcher (Advanced Worker Pool Pattern)
 
 ---
 
@@ -134,6 +135,7 @@ Here’s why I’m adding Go to my arsenal:
 | **39** | [Go-Log-Analyzer](./39-mini-project-go-log-analyzer) | Internal | ✅ Done |
 | **40** | [Go-API-Mock-Server](./40-mini-project-go-api-mock-server) | Internal | ✅ Done |
 | **41** | [Go-Backup-Manager](./41-mini-project-go-backup-manager) | Internal | ✅ Done |
+| **42** | [Go-Task-Dispatcher](./42-mini-project-go-task-dispatcher) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
