@@ -85,6 +85,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 40**: Mini Project: Go-API-Mock-Server (REST API from JSON)
 - [x] **Day 41**: Mini Project: Go-Backup-Manager (Concurrent Folder Backups & Rotation)
 - [x] **Day 42**: Mini Project: Go-Task-Dispatcher (Advanced Worker Pool Pattern)
+- [x] **Day 43**: Mini Project: Go-TCP-Proxy (High Performance Network Forwarder)
 
 ---
 
@@ -136,6 +137,7 @@ Here’s why I’m adding Go to my arsenal:
 | **40** | [Go-API-Mock-Server](./40-mini-project-go-api-mock-server) | Internal | ✅ Done |
 | **41** | [Go-Backup-Manager](./41-mini-project-go-backup-manager) | Internal | ✅ Done |
 | **42** | [Go-Task-Dispatcher](./42-mini-project-go-task-dispatcher) | Internal | ✅ Done |
+| **43** | [Go-TCP-Proxy](./43-mini-project-go-tcp-proxy) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
