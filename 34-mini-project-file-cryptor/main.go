@@ -25,21 +25,22 @@ func main() {
 	// Derive a 32-byte key from the password
 	key := sha256.Sum256([]byte(password))
 
-	if mode == "encrypt" {
+	switch mode {
+	case "encrypt":
 		err := encryptFile(filename, key[:])
 		if err != nil {
 			fmt.Printf("❌ Encryption failed: %v\n", err)
 		} else {
 			fmt.Printf("✅ File encrypted: %s.enc\n", filename)
 		}
-	} else if mode == "decrypt" {
+	case "decrypt":
 		err := decryptFile(filename, key[:])
 		if err != nil {
 			fmt.Printf("❌ Decryption failed: %v (Is the password correct?)\n", err)
 		} else {
 			fmt.Printf("✅ File decrypted successfully!\n")
 		}
-	} else {
+	default:
 		fmt.Println("❌ Invalid mode. Use 'encrypt' or 'decrypt'.")
 	}
 }
