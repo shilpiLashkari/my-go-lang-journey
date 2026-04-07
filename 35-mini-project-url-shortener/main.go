@@ -120,4 +120,3 @@ func (s *Shortener) load() {
 	}
 	fmt.Printf("📂 Loaded %d links from %s\n", len(s.Links), dataFile)
 }
- Lands

@@ -98,4 +98,3 @@ func (w *Watcher) restart() {
 		fmt.Printf("🚀 Started process %d\n", w.process.Process.Pid)
 	}
 }
- Lands

@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"net"
 	"sort"
-	"strings"
 	"sync"
 	"time"
 )
@@ -36,7 +35,7 @@ func main() {
 		go func() {
 			for p := range ports {
 				wg.Add(1)
-				address := fmt.Sprintf("%s:%d", *host, p)
+				address := net.JoinHostPort(*host, fmt.Sprintf("%d", p))
 				conn, err := net.DialTimeout("tcp", address, 1*time.Second)
 				if err != nil {
 					wg.Done()

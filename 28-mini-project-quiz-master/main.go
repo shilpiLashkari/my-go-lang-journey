@@ -63,7 +63,7 @@ problemLoop:
 			fmt.Println("\n\n⏰ TIME'S UP!")
 			break problemLoop
 		case answer := <-answerCh:
-			if strings.ToLower(strings.TrimSpace(answer)) == strings.ToLower(p.a) {
+			if strings.EqualFold(strings.TrimSpace(answer), p.a) {
 				correct++
 			}
 		}
@@ -94,4 +94,3 @@ func exit(msg string) {
 	fmt.Println(msg)
 	os.Exit(1)
 }
- Lands

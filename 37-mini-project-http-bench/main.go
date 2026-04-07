@@ -136,4 +136,3 @@ func printReport(s *Stats, total time.Duration, totalReqs int) {
 	}
 	fmt.Println("========================================")
 }
- Lands

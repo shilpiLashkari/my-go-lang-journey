@@ -109,4 +109,3 @@ func decryptFile(filename string, key []byte) error {
 
 	return os.WriteFile(outPath, plaintext, 0644)
 }
- Lands
