@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2038-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2044-blue)](#-progress-log)
 
 ---
 
@@ -97,7 +97,6 @@ Here’s why I’m adding Go to my arsenal:
 | **00** | [Why Go?](./00-history-of-go-and-why-go)     | Internal | ✅ Done |
 | **01** | [Hello World](./01-hello-world)              | Internal | ✅ Done |
 | **02** | [Variables & Types](./02-variable-and-types) | Internal | ✅ Done |
-
 | **03** | [Control Flows](./03-control-flow) | Internal | ✅ Done |
 | **04** | [Functions & Packages](./04-functions-and-packages) | Internal | ✅ Done |
 | **05** | [Array](./05-array) | Internal | ✅ Done |
