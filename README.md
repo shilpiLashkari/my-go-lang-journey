@@ -87,6 +87,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 42**: Mini Project: Go-Task-Dispatcher (Advanced Worker Pool Pattern)
 - [x] **Day 43**: Mini Project: Go-TCP-Proxy (High Performance Network Forwarder)
 - [x] **Day 44**: Mini Project: Go-Rate-Limiter (Token Bucket & Sliding Window Algorithms)
+- [x] **Day 45**: Mini Project: Go-Blockchain-Lite (Mining & Tamper Detection)
 
 ---
 
@@ -139,6 +140,7 @@ Here’s why I’m adding Go to my arsenal:
 | **42** | [Go-Task-Dispatcher](./42-mini-project-go-task-dispatcher) | Internal | ✅ Done |
 | **43** | [Go-TCP-Proxy](./43-mini-project-go-tcp-proxy) | Internal | ✅ Done |
 | **44** | [Go-Rate-Limiter](./44-mini-project-go-rate-limiter) | Internal | ✅ Done |
+| **45** | [Go-Blockchain-Lite](./45-mini-project-go-blockchain-lite) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
