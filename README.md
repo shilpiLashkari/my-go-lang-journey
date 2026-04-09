@@ -88,6 +88,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 43**: Mini Project: Go-TCP-Proxy (High Performance Network Forwarder)
 - [x] **Day 44**: Mini Project: Go-Rate-Limiter (Token Bucket & Sliding Window Algorithms)
 - [x] **Day 45**: Mini Project: Go-Blockchain-Lite (Mining & Tamper Detection)
+- [x] **Day 46**: Mini Project: Go-Redis-Clone (TCP In-Memory Key-Value Store)
 
 ---
 
@@ -141,6 +142,7 @@ Here’s why I’m adding Go to my arsenal:
 | **43** | [Go-TCP-Proxy](./43-mini-project-go-tcp-proxy) | Internal | ✅ Done |
 | **44** | [Go-Rate-Limiter](./44-mini-project-go-rate-limiter) | Internal | ✅ Done |
 | **45** | [Go-Blockchain-Lite](./45-mini-project-go-blockchain-lite) | Internal | ✅ Done |
+| **46** | [Go-Redis-Clone](./46-mini-project-go-redis-clone) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
