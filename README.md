@@ -90,6 +90,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 45**: Mini Project: Go-Blockchain-Lite (Mining & Tamper Detection)
 - [x] **Day 46**: Mini Project: Go-Redis-Clone (TCP In-Memory Key-Value Store)
 - [x] **Day 47**: Mini Project: Go-Log-Streamer (Real-time TCP Broadcaster)
+- [x] **Day 48**: Mini Project: Go-Load-Balancer (HTTP Round Robin with Health Checks)
 
 ---
 
@@ -145,6 +146,7 @@ Here’s why I’m adding Go to my arsenal:
 | **45** | [Go-Blockchain-Lite](./45-mini-project-go-blockchain-lite) | Internal | ✅ Done |
 | **46** | [Go-Redis-Clone](./46-mini-project-go-redis-clone) | Internal | ✅ Done |
 | **47** | [Go-Log-Streamer](./47-mini-project-go-log-streamer) | Internal | ✅ Done |
+| **48** | [Go-Load-Balancer](./48-mini-project-go-load-balancer) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
