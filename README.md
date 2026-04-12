@@ -91,6 +91,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 46**: Mini Project: Go-Redis-Clone (TCP In-Memory Key-Value Store)
 - [x] **Day 47**: Mini Project: Go-Log-Streamer (Real-time TCP Broadcaster)
 - [x] **Day 48**: Mini Project: Go-Load-Balancer (HTTP Round Robin with Health Checks)
+- [x] **Day 49**: Mini Project: Go-Message-Broker (Concurrent Pub/Sub System)
 
 ---
 
@@ -147,6 +148,7 @@ Here’s why I’m adding Go to my arsenal:
 | **46** | [Go-Redis-Clone](./46-mini-project-go-redis-clone) | Internal | ✅ Done |
 | **47** | [Go-Log-Streamer](./47-mini-project-go-log-streamer) | Internal | ✅ Done |
 | **48** | [Go-Load-Balancer](./48-mini-project-go-load-balancer) | Internal | ✅ Done |
+| **49** | [Go-Message-Broker](./49-mini-project-go-message-broker) | Internal | ✅ Done |
 
 ## 🚀 How to Run
 
