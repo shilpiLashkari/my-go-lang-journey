@@ -5,7 +5,7 @@ Welcome to my Go (Golang) learning adventure! This repository serves as a person
 **A comprehensive log of my journey mastering Go's performance and concurrency after a background in the MERN stack and Python.**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day%2044-blue)](#-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day%2050-blue)](#-progress-log)
 
 ---
 
@@ -92,6 +92,7 @@ Here’s why I’m adding Go to my arsenal:
 - [x] **Day 47**: Mini Project: Go-Log-Streamer (Real-time TCP Broadcaster)
 - [x] **Day 48**: Mini Project: Go-Load-Balancer (HTTP Round Robin with Health Checks)
 - [x] **Day 49**: Mini Project: Go-Message-Broker (Concurrent Pub/Sub System)
+- [x] **Day 50**: **MILESTONE**: Go-DNS-Resolver (Concurrent DNS Lookup Tool) 🚀
 
 ---
 
@@ -149,6 +150,7 @@ Here’s why I’m adding Go to my arsenal:
 | **47** | [Go-Log-Streamer](./47-mini-project-go-log-streamer) | Internal | ✅ Done |
 | **48** | [Go-Load-Balancer](./48-mini-project-go-load-balancer) | Internal | ✅ Done |
 | **49** | [Go-Message-Broker](./49-mini-project-go-message-broker) | Internal | ✅ Done |
+| **50** | [**Go-DNS-Resolver**](./50-mini-project-go-dns-resolver) | Milestone | 🚀 **STREAK: 50 DAYS!** |
 
 ## 🚀 How to Run
 
